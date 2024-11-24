@@ -1,4 +1,4 @@
-![banner](/BannerGIF2.gif)
+![banner](/bannerGIF2.gif)
 
 
 
