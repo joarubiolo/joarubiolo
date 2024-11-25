@@ -8,7 +8,7 @@ Hi everyone! My name is Joaquin Rubiolo
 ![bannergif](/bannergif.gif)
 
 * 🌍  **I'm based in Argentina**
-* ✉️  **You can contact me at [rubioloj.93@gmail.com](mailto:rubioloj.93@gmail.com)**
+* ✉️  **You can contact me at [my mail](mailto:rubioloj.93@gmail.com)**
 * 🧠  **I'm learning Neural Networks Libraries**
 * ⚡  **I love join teamworks and collaborate in every project about ML and DL application**
 
@@ -18,7 +18,7 @@ I'm a junior data researcher eager to keep learning everything the world of mach
 - Deep Learning libraries
 - Database management
 
-Feel free to check out my profile and explore my projects, and don’t forget to follow or message me!
+*Feel free to check out my profile and explore my projects, and don’t forget to follow or message me!*
 
 
 
