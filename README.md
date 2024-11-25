@@ -1,12 +1,10 @@
 ![banner](/bannerGIF2.gif)
 
-Hi everyone! ![GIF divertido](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
-
-My name is Joaquin Rubiolo
+Hi everyone! My name is Joaquin Rubiolo
 =======================================================================================================================================
 
 I'm a Data Scientist & ML Engineer
-----------------------------
+![bannergif](/bannergif.gif)
 
 I'm a junior data researcher eager to keep learning everything the world of machine learning and neural networks has to offer! Today, I’m proud to have the following skills: - ETL and EDA - MLOps - Deep Learning libraries - Database management Feel free to check out my profile and explore my projects, and don’t forget to follow or message me!
 
