@@ -1,6 +1,6 @@
 ![banner](/bannerGIF2.gif)
 
-Hi everyone! ![GIF divertido]([https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG1tMjB2em00bnNnaDdsOHM0dm9sMzZhOHNiOG55Z3NhOHplcnR1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif))
+Hi everyone! ![GIF divertido](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
 
 My name is Joaquin Rubiolo
 =======================================================================================================================================
