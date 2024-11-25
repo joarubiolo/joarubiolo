@@ -34,6 +34,18 @@ I'm a junior data researcher eager to keep learning everything the world of mach
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/joarubiolo/ProyFinal" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=joarubiolo&repo=https://github.com/joarubiolo/ProyFinal&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/joarubiolo/MLOps" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=joarubiolo&repo=https://github.com/joarubiolo/MLOps&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center">
+  <a href="https://github.com/joarubiolo/ProyFinal">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=joarubiolo&repo=ProyFinal&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/joarubiolo/MLOps">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=joarubiolo&repo=MLOps&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+</div>
 
-<div width="100%" align="center"><a href="https://github.com/joarubiolo/https://github.com/joarubiolo/PI_DataAnalysis" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=joarubiolo&repo=https://github.com/joarubiolo/PI_DataAnalysis&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center">
+  <a href="https://github.com/joarubiolo/PI_DataAnalysis">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=joarubiolo&repo=PI_DataAnalysis&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+</div>
+
