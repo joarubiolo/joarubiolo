@@ -30,8 +30,6 @@ I'm a junior data researcher eager to keep learning everything the world of mach
 
 <a href="http://www.github.com/joarubiolo"><img src="https://github-readme-stats.vercel.app/api?username=joarubiolo&show_icons=true&hide=issues,&count_private=true&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="joarubiolo's GitHub stats" /></a>
 
-<a href="http://www.github.com/joarubiolo"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=joarubiolo&bg_color=1c1917&color=0891b2&line=0891b2&point=0891b2&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <b>Top Repositories</b>
 
 <div width="100%" align="center">
