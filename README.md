@@ -3,7 +3,7 @@
 Hi everyone! My name is Joaquin Rubiolo
 =======================================================================================================================================
 
-*I'm a Data Scientist & ML Engineer*
+## *I'm a Data Scientist & ML Engineer*
 
 ![bannergif](/bannergif.gif)
 
