@@ -1,12 +1,13 @@
 ![banner](/bannerGIF2.gif)
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Joaquin Rubiolo
+Hi everyone! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+My name is Joaquin Rubiolo
 =======================================================================================================================================
 
-Data Scientist & ML Engineer
+I'm a Data Scientist & ML Engineer
 ----------------------------
 
-Hello everyone! I'm a junior data researcher eager to keep learning everything the world of machine learning and neural networks has to offer! Today, I’m proud to have the following skills: - ETL and EDA - MLOps - Deep Learning libraries - Database management Feel free to check out my profile and explore my projects, and don’t forget to follow or message me!
+I'm a junior data researcher eager to keep learning everything the world of machine learning and neural networks has to offer! Today, I’m proud to have the following skills: - ETL and EDA - MLOps - Deep Learning libraries - Database management Feel free to check out my profile and explore my projects, and don’t forget to follow or message me!
 
 * 🌍  I'm based in Argentina
 * ✉️  You can contact me at [rubioloj.93@gmail.com](mailto:rubioloj.93@gmail.com)
