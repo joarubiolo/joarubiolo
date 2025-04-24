@@ -3,7 +3,7 @@
 Hi everyone! My name is Joaquin Rubiolo
 =======================================================================================================================================
 
-## *I'm a Data Scientist & ML Engineer*
+## *I'm a Data Analyst & Scientist*
 
 ![bannergif](/bannergif.gif)
 
@@ -14,6 +14,7 @@ Hi everyone! My name is Joaquin Rubiolo
 
 I'm a junior data researcher eager to keep learning everything the world of machine learning and neural networks has to offer! Today, I’m proud to have the following skills: 
 - ETL and EDA
+- Interactive Dashboards
 - MLOps
 - Deep Learning libraries
 - Database management
